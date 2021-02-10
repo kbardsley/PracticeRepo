@@ -8,3 +8,5 @@ output: html_document
 ## This is my test repo!
 
 My name is *Katie* and I like **PLANTS**
+
+### I'm slowly figuring out how this works, hopefully it keeps working
